@@ -1,0 +1,5 @@
+if(EXISTS "D:/桌面/redbase/cmake-build-debug/test/mytest1[1]_tests.cmake")
+  include("D:/桌面/redbase/cmake-build-debug/test/mytest1[1]_tests.cmake")
+else()
+  add_test(mytest1_NOT_BUILT mytest1_NOT_BUILT)
+endif()

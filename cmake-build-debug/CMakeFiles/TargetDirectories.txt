@@ -1,0 +1,10 @@
+D:/桌面/redbase/cmake-build-debug/CMakeFiles/RedBase.dir
+D:/桌面/redbase/cmake-build-debug/CMakeFiles/new_target.dir
+D:/桌面/redbase/cmake-build-debug/CMakeFiles/test.dir
+D:/桌面/redbase/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/桌面/redbase/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/桌面/redbase/cmake-build-debug/test/CMakeFiles/mytest.dir
+D:/桌面/redbase/cmake-build-debug/test/CMakeFiles/mytest1.dir
+D:/桌面/redbase/cmake-build-debug/test/CMakeFiles/test.dir
+D:/桌面/redbase/cmake-build-debug/test/CMakeFiles/edit_cache.dir
+D:/桌面/redbase/cmake-build-debug/test/CMakeFiles/rebuild_cache.dir
